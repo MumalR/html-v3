@@ -1,0 +1,29 @@
+body{
+	margin:0px;
+}
+
+div{
+	width: 200px;
+	box-sizing:border-box;
+}
+
+.container{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.box{
+	margin: 1em;
+}
+
+.wrapper{
+	border:1px solid red;
+}
+
+.content{
+	border: 1px solid green;
+	padding: 1em;
+}
+
